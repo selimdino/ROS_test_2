@@ -9,3 +9,5 @@ robot
 robot
 
 EN STAVEK.
+neka druga stvar.
+še nekaj drugo.
